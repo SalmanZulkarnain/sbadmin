@@ -8,7 +8,7 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Page Title - SB Admin</title>
-    <link href="assets/css/styles.css" rel="stylesheet" />
+    <link href="../../assets/css/styles.css" rel="stylesheet" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" crossorigin="anonymous"></script>
 </head>
 
@@ -66,7 +66,7 @@
                                             <input class="form-control py-4" id="inputPassword" name="password" type="password" placeholder="Enter password" />
                                         </div>
 
-                                        <div class="form-group mt-4 mb-0"><a href="index.php" class="btn btn-primary btn-block">Register</a></div>
+                                        <div class="form-group mt-4 mb-0"><a href="../dashboard.php" class="btn btn-primary btn-block">Register</a></div>
                                     </form>
                                 </div>
                                 <div class="card-footer text-center">
@@ -95,7 +95,7 @@
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-    <script src="assets/js/scripts.js"></script>
+    <script src="../../assets/js/scripts.js"></script>
 </body>
 
 </html>
